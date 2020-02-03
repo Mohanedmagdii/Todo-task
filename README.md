@@ -7,6 +7,10 @@ Todo task. Written in Node.js, Express.js and MongoDB.
 ### Running  API server locally
 
 ```bash
+npm install
+```
+
+```bash
 npm run dev
 ```
 
